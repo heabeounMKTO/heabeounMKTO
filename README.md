@@ -1,3 +1,2 @@
 # បង្ហោះម៉ូតូ ***មេីលគេថែអូន***
-![mkto](/mkto.jpg) <-- 𝕒𝕪𝕪𝕝𝕞𝕒𝕠
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heabeounMKTO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
